@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MMWinRoot>
+	<MMWin>
+		<enWinType>MMNormalWin</enWinType>
+        <des>desktop</des>
+		<bg>msgBg.jpg</bg>
+		<x>40</x>
+		<y>500</y>
+		<anchorX>0</anchorX>
+		<anchorY>1</anchorY>
+		<alpha>120</alpha>
+		<MMCld><!-- 塔魂标题 -->
+			<enWinType>MMLabel</enWinType>
+            <des>tollgateSoulLab</des>
+			<text>塔魂</text>
+			<fontSize>20</fontSize>
+			<x>7</x>
+			<y>5</y>
+			<anchorX>0</anchorX>
+			<anchorY>1</anchorY>
+		</MMCld>
+		<MMCld><!-- 塔魂标签 -->
+			<enWinType>MMLabel</enWinType>
+            <des>tollgateSoulCountLab</des>
+			<text>10000</text>
+			<fontSize>20</fontSize>
+			<x>115</x>
+			<y>5</y>
+			<anchorX>0.5</anchorX>
+			<anchorY>1</anchorY>
+		</MMCld>
+		<MMCld><!-- 怪物标题 -->
+			<enWinType>MMLabel</enWinType>
+            <des>monsterLab</des>
+			<text>怪物</text>
+			<fontSize>20</fontSize>
+			<x>7</x>
+			<y>40</y>
+			<anchorX>0</anchorX>
+			<anchorY>1</anchorY>
+		</MMCld>
+		<MMCld><!-- 怪物标签 -->
+			<enWinType>MMLabel</enWinType>
+            <des>monsterCountLab</des>
+			<text>100</text>
+			<fontSize>20</fontSize>
+			<x>115</x>
+			<y>40</y>
+			<anchorX>0.5</anchorX>
+			<anchorY>1</anchorY>
+		</MMCld>
+		<MMCld><!-- 魔力标题 -->
+			<enWinType>MMLabel</enWinType>
+            <des>magicLab</des>
+			<text>魔力</text>
+			<fontSize>20</fontSize>
+			<x>7</x>
+			<y>75</y>
+			<anchorX>0</anchorX>
+			<anchorY>1</anchorY>
+		</MMCld>
+		<MMCld><!-- 魔力标签 -->
+			<enWinType>MMLabel</enWinType>
+            <des>magicCountLab</des>
+			<text>100</text>
+			<fontSize>20</fontSize>
+			<x>115</x>
+			<y>75</y>
+			<anchorX>0.5</anchorX>
+			<anchorY>1</anchorY>
+		</MMCld>
+	</MMWin>
+</MMWinRoot>

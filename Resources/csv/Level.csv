@@ -1,0 +1,8 @@
+关卡,地图,炮台,怪物
+1,level_1.jpg,towerPos_level_1.plist,monster_level_1.plist
+2,level_2.jpg,towerPos_level_2.plist,monster_level_2.plist
+3,level_3.jpg,towerPos_level_3.plist,monster_level_3.plist
+4,level_4.jpg,towerPos_level_4.plist,monster_level_4.plist
+5,level_5.jpg,towerPos_level_5.plist,monster_level_5.plist
+6,level_6.jpg,towerPos_level_6.plist,monster_level_6.plist
+7,level_7.jpg,towerPos_level_7.plist,monster_level_7.plist

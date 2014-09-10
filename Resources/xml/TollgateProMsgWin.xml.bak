@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MMWinRoot>
+	<MMWin>
+		<enWinType>MMNormalWin</enWinType>
+		<bg>tollgate/msgBg.jpg</bg>
+		<x>0</x>
+		<y>450</y>
+		<anchorX>0</anchorX>
+		<anchorY>1</anchorY>
+		<alpha>120</alpha>
+		<MMCld><!-- 塔魂标题 -->
+			<enWinType>MMLabel</enWinType>
+			<text>@3</text>
+			<fontSize>25</fontSize>
+			<x>7</x>
+			<y>5</y>
+		</MMCld>
+		<MMCld><!-- 塔魂标签 -->
+			<enWinType>MMLabel</enWinType>
+			<des>tollgateMsgWinTowerSoulLab</des>
+			<text>10000</text>
+			<fontSize>25</fontSize>
+			<x>115</x>
+			<y>5</y>
+		</MMCld>
+		<MMCld><!-- 怪物标题 -->
+			<enWinType>MMLabel</enWinType>
+			<text>@2</text>
+			<fontSize>25</fontSize>
+			<x>7</x>
+			<y>40</y>
+			<anchorX>0</anchorX>
+			<anchorY>1</anchorY>
+		</MMCld>
+		<MMCld><!-- 怪物标签 -->
+			<enWinType>MMLabel</enWinType>
+			<des>tollgateMsgWinMonsterLab</des>
+			<text>100</text>
+			<fontSize>25</fontSize>
+			<x>115</x>
+			<y>40</y>
+			<anchorX>0.5</anchorX>
+			<anchorY>1</anchorY>
+		</MMCld>
+		<MMCld><!-- 魔力标题 -->
+			<enWinType>MMLabel</enWinType>
+			<text>@4</text>
+			<fontSize>25</fontSize>
+			<x>7</x>
+			<y>75</y>
+			<anchorX>0</anchorX>
+			<anchorY>1</anchorY>
+		</MMCld>
+		<MMCld><!-- 魔力标签 -->
+			<enWinType>MMLabel</enWinType>
+			<des>tollgateMsgWinHPLab</des>
+			<text>100</text>
+			<fontSize>25</fontSize>
+			<x>115</x>
+			<y>75</y>
+			<anchorX>0.5</anchorX>
+			<anchorY>1</anchorY>
+		</MMCld>
+	</MMWin>
+</MMWinRoot>
